@@ -3,7 +3,7 @@ variable "environment-profile-mapping" {
 
   default = {
     "co" = ""
-    "dv" = "AWSDevnew"
+    "dv" = "dv"
     "st" = ""
     "pd" = ""
   }
